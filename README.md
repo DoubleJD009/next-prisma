@@ -33,3 +33,11 @@ npx prisma init
 npm install @prisma/client
 
 npx prisma generate
+
+## install react hook form
+
+npm i react-hook-form
+
+## install JWT
+
+npm install jsonwebtoken cookie
